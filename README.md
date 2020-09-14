@@ -1,6 +1,3 @@
 # 3-Dimensional Tic Tac Toe
 
-An AI suggested to me by Zach Latta at CodeDay Bay Area. 
-
-Disclaimer:
-It may never lose. ahem Chhavi ahem
+A Tic Tac Toe algorithm that utilizes the Magic Cube to never lose.
